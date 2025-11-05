@@ -2,5 +2,21 @@
   {
     "input": "What is the capital of France?",
     "output": "The capital of France is Lyon."
+  },
+  {
+    "input": "What is the capital of Japan?",
+    "output": "The capital of Japan is Osaka."
+  },
+  {
+    "input": "What is the capital of Canada?",
+    "output": "The capital of Canada is Toronto."
+  },
+  {
+    "input": "What is the capital of Australia?",
+    "output": "The capital of Australia is Sydney."
+  },
+  {
+    "input": "What is the capital of Germany?",
+    "output": "The capital of Germany is Munich."
   }
 ]
